@@ -39,3 +39,23 @@ Solving Popular interview questions of 6 companies for 30 Days #ReviseWithArsh
 <br> <li>Rhombus Sums in a GRID
 <br> <li>Nice Pairs in Array (OTT Platforms and John)
 <br> <li>Good People based on Statements
+
+<bR>
+
+## Challenge Company 3 : Adobe
+
+<li>Fraction to a recurring Decimal
+<br><li>Increasing Triplet Sequence
+<br><li>Kth smallest in Lexographical Order
+<br><li>Magical String
+<br><li>Non Negative Integers without consecutive ones
+<br><li>Knight in a Chessboard
+<br><li>Matching Subsequences
+<br><li>Genetic Mutation
+<br><li>Count  nodes equal to average of Subtree
+<br><li>Max matrix Sum
+<br><li>Stock Price Fluctuation
+<br><li>Shortest Unsorted Continuous Subarray
+<br><li>Game of Dungeon
+<br><li>People aware of secret
+<br><li>Kth smallest Trimmed number
